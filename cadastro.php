@@ -19,11 +19,12 @@
 
     <body>
 
-    <?php
+        <?php
 
-    $nomeSobrenome = explode(" ", $_POST['nome'], 2);
+        $nomeSobrenome = explode(" ", $_POST['nome'], 2);
 
-    ?>
+        ?>
+
         <div class="mx-5 my-5">
             <h1>Cadastro feito com sucesso.</h1>
             <p>Seguem os dados de sua conta:</p>

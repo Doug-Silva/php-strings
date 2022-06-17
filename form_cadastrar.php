@@ -23,7 +23,7 @@
             <form action="./cadastro.php" method="post">
                 <div class="form-group">
                     <label for="nome">Nome: </label>
-                    <input type="text" id="nome" name="nome" class="form-control" placeholder="Digite seu nome">
+                    <input type="text" id="nome" name="nome" class="form-control" placeholder="Digite o seu nome">
                 </div>
 
                 <div class="form-group">

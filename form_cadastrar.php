@@ -9,7 +9,7 @@
         <!-- CSS -->
         <link rel="stylesheet" type="text/css" href="./assets/css/bootstrap.min.css">
 
-        <!-- Icone da página -->
+        <!-- Ícone da página -->
         <link rel="shortcut icon" type="imagem/x-icon" href="./assets/img/favicon.ico"/>
 
         <!-- Título da página -->
